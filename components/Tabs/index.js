@@ -14,21 +14,11 @@
 // }
 
 
-// function Tabs(toppics) {
-//     const tab = document.createElement('div');
-//     tab.classList.add = ('tab')
-//     tab.textContent = toppics;
-//     return tab;
-// }
-
-// axios.get('https://lambda-times-backend.herokuapp.com/topics')
-//   .then(res => {
-//     console.log(res);
-//     return topics = res.data.topics
+//
 //   })
 //   .then((topics) => {
 //     const container = document.querySelector('.topics')
-//     topics.forEach(toppics => {
+//     topics.forEach(topics => {
 //       container.appendChild(Tab(topiccs))
 //     })
 //   })

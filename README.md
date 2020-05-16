@@ -36,7 +36,28 @@ Edit this document to include your answers after each question. Make sure to lea
 
 4. Why would we convert a NodeList into an Array?
 
+5. What is a component?## Self-Study Questions
+
+Demonstrate your understanding of this week's concepts by answering the following free-form questions.
+
+Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
+
+1. What is the DOM?
+ - It's the document object model. 
+ It uses a tree-like structure and can generate nodes
+
+2. What is an event?
+- It just means something has happened on the page while the user is interacting to it. It's kind of creepy how very very many types of events can be triggered and what can be done with the data. 
+
+3. What is an event listener?
+- Like an event, it's just something that is measured on the end users' side, but we prepare for it and have an action ready to go when such and such event occurs, like say a person on Amazon with a full cart of $600 worth of stuff moves their mouse to the url bar or the back button, you could trigger one of those shiesty "w-wait! How about we give you 20% off???" messages. 
+
+4. Why would we convert a NodeList into an Array?
+- Just because it's more useful and specific. Like you could select every single node in a DOM, and make like say a blanket change to all of them, but an array offers way more specific interactions with data
+
 5. What is a component?
+- Kinda like mixins from back in the day. They're just little snippets of code meant to be reused in order to increase efficiency and prevent repetitiveness and increase efficiency and prevent repetitiveness and increase efficiency
+
 
 ### Git Set up
 
